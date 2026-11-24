@@ -1,0 +1,6 @@
+{
+  "name": "Cadence — Daily Task Manager",
+  "description": "A clean, responsive daily task management dashboard with full CRUD operations, priority filtering, sorting, live statistics, and persistent browser storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
